@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning Go 🚀 (Web Apps, TDD)
-- 👨‍💻 while dabbling with Vim
+- 👨‍💻 Also dabbling with Vim
 
-- ⚡ Really like the Next.js framework
+- ⚡ Next.js > Vue > React
