@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Go 🚀
+- 🌱 I’m currently learning Go 🚀 (Web Apps, TDD)
+- 👨‍💻 while dabbling with Vim
+
+- ⚡ Really like the Next.js framework
