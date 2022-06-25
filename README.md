@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![](https://komarev.com/ghpvc/?username=nik-don)
+
 - 🌱 I’m currently learning Go 🚀 (Web Apps, TDD)
 - 👨‍💻 Also dabbling with Vim
 <!--
