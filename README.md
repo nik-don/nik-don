@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=nik-don)
 
 - 🌱 I’m currently learning Go 🚀 (Web Apps, TDD)
+- 🔍 Eager to explore job opportunities while participating in the 01 Founders fellowship program!
+- 
 - 👨‍💻 Also dabbling with Vim
 <!--
 - ⚡ Next.js > Vue > React
