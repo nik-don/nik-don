@@ -13,14 +13,19 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
 -->
 
 ![](https://komarev.com/ghpvc/?username=nik-don)
 
-- 🌱 I’m currently learning Go 🚀 (Web Apps, TDD)
-- 🔍 Eager to explore job opportunities while participating in the 01 Founders fellowship program!
-- 
+- 🌱 I’m currently learning Rust 🦀
+- 🚀 Proficient in Go and JavaScript with experience working on various projects, including web and CLI apps
+- 🧪 Experience with test-driven development (TDD) and always looking for opportunities to improve my skills
 - 👨‍💻 Also dabbling with Vim
+- 🔍 Eager to explore job opportunities while participating in the 01 Founders fellowship program
+- 🌎 Contact me: [nikdon.com](https://www.nikdon.com)
+
 <!--
 - ⚡ Next.js > Vue > React
 -->
