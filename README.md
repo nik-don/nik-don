@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 🚀 Proficient in Go and JavaScript with experience working on various projects, including web and CLI apps
 - 🧪 Experience with test-driven development (TDD) and always looking for opportunities to improve my skills
 - 👨‍💻 Also dabbling with Vim
-- 🔍 Eager to explore job opportunities while participating in the [01 Founders fellowship program](https://github.com/nik-don/01-founders) <- Click to go to my public repo
+- 🔍 Eager to explore job opportunities while participating in the [01 Founders Fellowship](https://github.com/nik-don/01-founders) <- Click to go to my public repo
 - 🌎 Contact me: [nikdon.com](https://www.nikdon.com)
 
 
