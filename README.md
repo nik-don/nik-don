@@ -24,7 +24,9 @@ Here are some ideas to get you started:
 - 🧪 Fascinated by Rust's 🦀 ability to create bulletproof code, even though it can be challenging to get right
 - 🎨 Exploring different frameworks and libraries to broaden my knowledge
 - 🔍 Seeking opportunities to contribute to meaningful projects and grow as a developer
+<!--
 - 🌎 Let's connect! Feel free to reach out to me at [nikdon.com](https://www.nikdon.com)
+-->
 
 ## Skills
 
