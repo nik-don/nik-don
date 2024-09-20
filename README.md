@@ -45,14 +45,17 @@ Here are some ideas to get you started:
 
 ## Learning Journey
 
-- Diving deep into React and its ecosystem to create interactive web applications
-- Continuously improving my Go skills and exploring its potential for backend development
-- Embracing the challenges of Rust and striving to write robust and error-proof code
-- Participating in the [01 Founders Fellowship](https://github.com/nik-don/01-founders) & [42 London](https://42london.com/) to collaborate with fellow developers and expand my knowledge
 
-I'm passionate about crafting efficient and reliable software solutions. With a strong foundation in Go and a growing expertise in Rust, I'm excited to tackle complex problems and contribute to impactful projects.
+- **Frontend Development:** Building projects to enhance frontend expertise using React.
+- **Backend Development:** Developing applications in Go, focusing on simplicity and efficiency.
+- **Learning Rust 🦀:** Learning to write robust, reliable code.
+- **Continuous Learning:** Exploring new frameworks and libraries to expand my expertise.
+- **Open to Opportunities:** Seeking meaningful projects to contribute to and grow as a developer.
+- **Collaborative Learning:** Engaging with peers through [01 Founders Fellowship](https://github.com/nik-don/01-founders) & [42 London](https://42london.com/) to collaborate with other developers.
 
-Feel free to explore my repositories and provide any feedback or suggestions. I'm always eager to learn from the community and collaborate with like-minded developers!
+Learning Go and Rust to build software that works. I love creating things and am focused on turning ideas into solid, reliable code.
+
+Feel free to explore my repositories. I'm open to feedback and collaboration opportunities.
 
 <!--
 - ⚡ Next.js > Vue > React
@@ -60,6 +63,6 @@ Feel free to explore my repositories and provide any feedback or suggestions. I'
 
 ## Meet My Coding Buddy
 
-| ![alt text](https://github.com/nik-don/nik-don/blob/main/gigi-graphic.png?raw=true) |
+| ![gigi-graphic(2)](https://github.com/user-attachments/assets/8d2b8a4d-b438-4340-be2a-1d9e4cd974ff) |
 |:--:| 
 | *While I'm busy coding, gigi is busy debugging my life! 😸*|
